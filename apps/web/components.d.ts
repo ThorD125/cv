@@ -22,6 +22,7 @@ declare module 'vue' {
     BlogStagemarkt: typeof import('./src/components/Layout/Pages/blog/BlogStagemarkt.vue')['default']
     BlogTemplate: typeof import('./src/components/Layout/Pages/blog/BlogTemplate.vue')['default']
     BlogTile: typeof import('./src/components/Layout/Tiles/BlogTile.vue')['default']
+    BlogVeeam: typeof import('./src/components/Layout/Pages/blog/BlogVeeam.vue')['default']
     Color: typeof import('./src/components/Button/Color.vue')['default']
     copy: typeof import('./src/components/Layout/Pages/blog/BlogCyberSecChalenge2023 copy.vue')['default']
     CvToPdf: typeof import('./src/components/CvToPdf.vue')['default']
