@@ -3,12 +3,21 @@
     <div :class="props.download ? 'flex' : ''">
         <div :class="props.download ? 'w-[50%] pr-5' : 'w-[100%]'">
             <h2>&lt;Experiences /&gt;</h2>
-            <a href="https://www.jimber.io/">
+            <a href="https://www.jimber.io/" target="_blank">
+                <h3><span class="font-bold">Jimber</span></h3>
+                <p class="text-xs">12 februari tot 24 mei 2024</p>
+                <p>
+                    Tijdens mijn stage werkte ik aanvankelijk aan het toevoegen van maprechten voor het 'Vault' project.
+                    Vervolgens droeg ik bij aan het 'Network Isolation' project, waarbij ik me richtte op het versterken
+                    van de netwerkbeveiliging.
+                </p>
+            </a>
+            <a href="https://www.jimber.io/" target="_blank">
                 <h3><span class="font-bold">Jimber</span></h3>
                 <p class="text-xs">juli-augustus 2023</p>
                 <p>
-                    Ik hun Network Isolation project aan het web gedeelte helpte programmeren met security in het
-                    achterhoofd.
+                    Ik werkte als vakantiejob aan het 'Network Isolation' project, waarbij ik hield bij de ontwikkeling
+                    van het webgedeelte met een sterke focus op cybersecurity.
                 </p>
             </a>
             <div>
@@ -131,8 +140,9 @@
         <div class="w-[90vw] md:w-[50vw] md:pr-5">
             <h2>Hobby's</h2>
 
-            <p>Gamen</p>
             <p>Programmeren</p>
+            <p>Zwemmen</p>
+            <p>Gamen</p>
             <p>Scripten</p>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
