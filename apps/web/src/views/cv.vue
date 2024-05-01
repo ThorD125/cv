@@ -3,6 +3,14 @@
     <div :class="props.download ? 'flex' : ''">
         <div :class="props.download ? 'w-[50%] pr-5' : 'w-[100%]'">
             <h2>&lt;Experiences /&gt;</h2>
+            <a href="https://www.jimber.io/">
+                <h3><span class="font-bold">Jimber</span></h3>
+                <p class="text-xs">juli-augustus 2023</p>
+                <p>
+                    Ik hun Network Isolation project aan het web gedeelte helpte programmeren met security in het
+                    achterhoofd.
+                </p>
+            </a>
             <div>
                 <h3><span class="font-bold">Televic</span></h3>
                 <p class="text-xs">juli-augustus 2022</p>
@@ -26,7 +34,7 @@
         </div>
     </div>
 
-    <SectionBreak v-if="props.download"/>
+    <SectionBreak v-if="props.download" />
     <div class="md:flex" v-if="props.download">
         <div class="w-[90vw] md:w-[50vw] md:pr-5">
             <h2>Plus-punten</h2>
