@@ -7,7 +7,7 @@
                 <h3><span class="font-bold">Jimber</span></h3>
                 <p class="text-xs">12 februari tot 24 mei 2024</p>
                 <p>
-                    Tijdens mijn stage werkte ik aanvankelijk aan het toevoegen van maprechten voor het 'Vault'-project.
+                    Tijdens mijn stage werkte ik aanvankelijk aan het toevoegen van map rechten voor het 'Vault'-project.
                     Vervolgens droeg ik bij aan het 'Network Isolation'-project, waarbij ik me richtte op het versterken
                     van de netwerkbeveiliging.
                 </p>
@@ -17,7 +17,7 @@
                 <p class="text-xs">juli-augustus 2023</p>
                 <p>
                     Ik werkte als vakantiejob aan het 'Network Isolation'-project, waarbij ik hielp bij de ontwikkeling
-                    van het webgedeelte met een sterke focus op cybersecurity.
+                    van het web gedeelte met een sterke focus op cybersecurity.
                 </p>
             </a>
             <div>
@@ -33,7 +33,7 @@
                 <p class="text-xs">maart 2021</p>
                 <p></p>
                 <p>
-                    Mijn opdrachten bestonden uit het ontwerpen van websites en deze in code omzetten en wordpress erop
+                    Mijn opdrachten bestonden uit het ontwerpen van websites en deze in code omzetten en WordPress erop
                     te integreren.
                 </p>
             </a>
@@ -56,24 +56,24 @@
             </div>
             <div>
                 <p>Leergierig:</p>
-                <p>Ik leer graag nieuwe dingen of leer graag betere manieren kennen voor iets te doen.</p>
+                <p>Ik leer graag nieuwe dingen of leer graag betere manieren kennen om iets te doen.</p>
             </div>
             <div>
                 <p>Relaxed:</p>
                 <p>
-                    Als ik zeg dat iets af zal zijn, zal ik zo veel mogelijk doen zodat u op 2 geruste oren kunst slapen
+                    Als ik zeg dat iets af zal zijn, zal ik zo veel mogelijk doen zodat u op 2 geruste oren kunt slapen.
                 </p>
             </div>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
             <h2>Min-puntjes:</h2>
             <div>
-                <p>Dislectisch</p>
+                <p>Dyslectisch</p>
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
             </div>
             <div>
-                <p>Niet detail georienteerd</p>
-                <p>Ik maak liever iets die werkt, dan dat het er goed uitziet</p>
+                <p>Niet detail georiënteerd</p>
+                <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
             <div>
                 <p>Solitair</p>
@@ -101,10 +101,10 @@
             <p>Athena Heule</p>
             <p>https://www.athena-school.be/onze-school/campus-heule</p>
             <p>We leerden vooral gebruik maken van verschillende adobe programma's en websites maken.</p>
-            Diploma behaald op 29 juni 2021
+            Diploma behaald op 29 juni 2021.
         </div>
         <div>
-            <h3><span class="font-bold">Industriele</span> Wetenschappen</h3>
+            <h3><span class="font-bold">Industriële</span> Wetenschappen</h3>
             <p class="text-xs">2015-2018</p>
             <p>Vti Menen</p>
             <p v-if="!download">
@@ -118,13 +118,13 @@
         <div class="w-[90vw] md:w-[50vw] md:pr-5">
             <h2>Skills</h2>
             <ul>
-                <li>python</li>
+                <li>Python</li>
                 <li>.net</li>
-                <li>html, Javascript, css, php</li>
-                vue, webpack, wordpress typescript sass, tailwind
-                <li>Linux (ubuntu, debian, kali, manjaro)</li>
-                <li>git</li>
-                <li>kotlin</li>
+                <li>Html, Javascript, Css, Php</li>
+                vue, webpack, WordPress typescript sass, tailwind
+                <li>Linux (Ubuntu, Debian, Kali, Manjaro)</li>
+                <li>Git</li>
+                <li>Kotlin</li>
             </ul>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
@@ -164,24 +164,24 @@
             </div>
             <div>
                 <p>Leergierig:</p>
-                <p>Ik leer graag nieuwe dingen of leer graag betere manieren kennen voor iets te doen.</p>
+                <p>Ik leer graag nieuwe dingen of leer graag betere manieren kennen om iets te doen.</p>
             </div>
             <div>
                 <p>Relaxed:</p>
                 <p>
-                    Als ik zeg dat iets af zal zijn, zal ik zo veel mogelijk doen zodat u op 2 geruste oren kunst slapen
+                    Als ik zeg dat iets af zal zijn, zal ik zo veel mogelijk doen zodat u op 2 geruste oren kunt slapen.
                 </p>
             </div>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
             <h2>Min-puntjes:</h2>
             <div>
-                <p>Dislectisch</p>
+                <p>Dyslectisch</p>
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
             </div>
             <div>
-                <p>Niet detail georienteerd</p>
-                <p>Ik maak liever iets die werkt, dan dat het er goed uitziet</p>
+                <p>Niet detail georiënteerd</p>
+                <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
             <div>
                 <p>Solitair</p>
