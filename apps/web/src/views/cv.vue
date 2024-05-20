@@ -7,8 +7,8 @@
                 <h3><span class="font-bold">Jimber</span></h3>
                 <p class="text-xs">12 februari tot 24 mei 2024</p>
                 <p>
-                    Tijdens mijn stage werkte ik aanvankelijk aan het toevoegen van maprechten voor het 'Vault' project.
-                    Vervolgens droeg ik bij aan het 'Network Isolation' project, waarbij ik me richtte op het versterken
+                    Tijdens mijn stage werkte ik aanvankelijk aan het toevoegen van maprechten voor het 'Vault'-project.
+                    Vervolgens droeg ik bij aan het 'Network Isolation'-project, waarbij ik me richtte op het versterken
                     van de netwerkbeveiliging.
                 </p>
             </a>
@@ -16,7 +16,7 @@
                 <h3><span class="font-bold">Jimber</span></h3>
                 <p class="text-xs">juli-augustus 2023</p>
                 <p>
-                    Ik werkte als vakantiejob aan het 'Network Isolation' project, waarbij ik hield bij de ontwikkeling
+                    Ik werkte als vakantiejob aan het 'Network Isolation'-project, waarbij ik hield bij de ontwikkeling
                     van het webgedeelte met een sterke focus op cybersecurity.
                 </p>
             </a>
@@ -46,11 +46,11 @@
     <SectionBreak v-if="props.download" />
     <div class="md:flex" v-if="props.download">
         <div class="w-[90vw] md:w-[50vw] md:pr-5">
-            <h2>Plus-punten</h2>
+            <h2>Plus-punten:</h2>
             <div>
                 <p>Gedreven werker:</p>
                 <p>
-                    Ik werk liever s'avonds een uurtje verder dan een nieuwe functie of iets dergelijks te laten liggen
+                    Ik werk liever s' avonds een uurtje verder dan een nieuwe functie of iets dergelijks te laten liggen
                     tot de dag erna.
                 </p>
             </div>
@@ -66,7 +66,7 @@
             </div>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
-            <h2>Min-puntjes</h2>
+            <h2>Min-puntjes:</h2>
             <div>
                 <p>Dislectisch</p>
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
@@ -108,7 +108,7 @@
             <p class="text-xs">2015-2018</p>
             <p>Vti Menen</p>
             <p v-if="!download">
-                We hadden een praktijkgerichte benadering van technologie en engineering, stimuleerde ons om innovatieve
+                We hadden een praktijkgerichte benadering van technologie en engineering, het stimuleerde ons om innovatieve
                 oplossingen te ontwikkelen voor complexe industriële uitdagingen.
             </p>
         </div>
@@ -154,11 +154,11 @@
     </div>
     <div class="md:flex" v-if="!props.download">
         <div class="w-[90vw] md:w-[50vw] md:pr-5">
-            <h2>Plus-punten</h2>
+            <h2>Plus-punten:</h2>
             <div>
                 <p>Gedreven werker:</p>
                 <p>
-                    Ik werk liever s'avonds een uurtje verder dan een nieuwe functie of iets dergelijks te laten liggen
+                    Ik werk liever s' avonds een uurtje verder dan een nieuwe functie of iets dergelijks te laten liggen
                     tot de dag erna.
                 </p>
             </div>
@@ -174,7 +174,7 @@
             </div>
         </div>
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
-            <h2>Min-puntjes</h2>
+            <h2>Min-puntjes:</h2>
             <div>
                 <p>Dislectisch</p>
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
