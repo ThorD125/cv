@@ -16,7 +16,7 @@
                 <h3><span class="font-bold">Jimber</span></h3>
                 <p class="text-xs">juli-augustus 2023</p>
                 <p>
-                    Ik werkte als vakantiejob aan het 'Network Isolation'-project, waarbij ik hield bij de ontwikkeling
+                    Ik werkte als vakantiejob aan het 'Network Isolation'-project, waarbij ik hielp bij de ontwikkeling
                     van het webgedeelte met een sterke focus op cybersecurity.
                 </p>
             </a>
