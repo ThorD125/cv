@@ -11,6 +11,7 @@ import projects from '@/views/projects.vue';
 import console from '@/views/Console.vue';
 import CvToPdf from '@/components/CvToPdf.vue';
 import qr from '@/components/qr.vue';
+import BlogToPdf from '@/components/BlogToPdf.vue';
 
 export const routes: RouteRecordRaw[] = [
     {
@@ -52,6 +53,7 @@ export const routes: RouteRecordRaw[] = [
         component: Cv,
     },
     { path: '/cv/pdf', component: CvToPdf },
+    { path: '/blog/pdf', component: BlogToPdf },
     {
         path: '/blog/',
         alias: ['/blog'],

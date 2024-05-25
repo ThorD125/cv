@@ -5,7 +5,7 @@
             <p class="ml-2 text-base m-auto" v-if="props.date">- {{ props.date }}</p>
         </h2>
     </div>
-    <div v-show="!showFirstDiv">
+    <div v-show="!showFirstDiv || props.download">
         <slot></slot>
     </div>
 </template>
@@ -16,6 +16,7 @@
     interface IProps {
         title: string;
         date?: string;
+        download?: boolean;
     }
 
     const props = withDefaults(defineProps<IProps>(), {});

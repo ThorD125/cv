@@ -72,7 +72,7 @@
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
             </div>
             <div>
-                <p>Niet detail georiënteerd</p>
+                <p>Niet detail georiënteerd.</p>
                 <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
             <div>
@@ -180,7 +180,7 @@
                 <p>Ik doe mijn best maar er zitten waarschijnlijk veel schrijffouten in mijn teksten.</p>
             </div>
             <div>
-                <p>Niet detail georiënteerd</p>
+                <p>Niet detail georiënteerd.</p>
                 <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
             <div>
