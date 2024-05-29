@@ -10,6 +10,7 @@
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openEmail"><span>Email</span><ImageIcon src="email"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openLinkedIn"><span>Linked</span><ImageIcon src="linkedin"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openGithub"><span>Github</span><ImageIcon src="github"/> </p>
+        <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openHackTheBox"><span>Github</span><ImageIcon src="hackthebox"/> </p>
     </div>
 </div>
    
@@ -26,6 +27,9 @@ const openGithub = () => {
 }
 const openEmail = () => {
     window.open("mailto:thor.demeestere@telenet.be", "_blank");
+}
+const openHackTheBox = () => {
+    window.open("https://app.hackthebox.com/profile/344044", "_blank");
 }
 const openPhone = () => {
     window.open("tel:+32489714463", "_blank");

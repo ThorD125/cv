@@ -12,7 +12,7 @@
     import Birthday from "@/assets/icons/birthday.svg";
     import Email from "@/assets/icons/email.svg";
     import Address from "@/assets/icons/address.svg";
-
+    import HackTheBox from "@/assets/icons/hackthebox.svg";
 
     interface IProps {
         src: string;
@@ -39,6 +39,8 @@
                 return Birthday;
             case "adress":
                 return Address;
+            case "hackthebox":
+                return HackTheBox;
             default:
                 return "test";
         }
