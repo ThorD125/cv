@@ -10,11 +10,11 @@
 
 <h3>Hoogtepunten van het Evenement</h3>
 
-<p>Een Hoogstaand Programma: Het programma zat boordevol sessies die werden geleid door toonaangevende experts uit de industrie. Van diepgaande technische workshops tot strategische keynotes, er was voor ieder wat wils.</p>
-<p>Inspirerende Keynotes: Enkele van de meest invloedrijke figuren uit de IT-sector deelden hun inzichten en visies op de toekomst van cyberbeveiliging. Hun presentaties waren niet alleen informatief, maar ook enorm inspirerend.</p>
-<p>Talkshows en Q&A Sessies: Deze interactieve sessies boden de kans om direct vragen te stellen aan de experts en deel te nemen aan diepgaande discussies over actuele IT-onderwerpen.</p>
-<p>Workshops en Webinars: Er waren talloze interactieve workshops en webinars die praktische kennis en vaardigheden boden. Dit was een geweldige manier om nieuwe technieken te leren en direct toe te passen.</p>
-<p>Inspirerende Tentoonstellingsvloer: De beursvloer zelf was een bron van inspiratie, gevuld met stands van bedrijven die de nieuwste oplossingen en innovaties op het gebied van IT-beveiliging en data management presenteerden.</p>
+<p>- Een Hoogstaand Programma: Het programma zat boordevol sessies die werden geleid door toonaangevende experts uit de industrie. Van diepgaande technische workshops tot strategische keynotes, er was voor ieder wat wils.</p>
+<p>- Inspirerende Keynotes: Enkele van de meest invloedrijke figuren uit de IT-sector deelden hun inzichten en visies op de toekomst van cyberbeveiliging. Hun presentaties waren niet alleen informatief, maar ook enorm inspirerend.</p>
+<p>- Talkshows en Q&A Sessies: Deze interactieve sessies boden de kans om direct vragen te stellen aan de experts en deel te nemen aan diepgaande discussies over actuele IT-onderwerpen.</p>
+<p>- Workshops en Webinars: Er waren talloze interactieve workshops en webinars die praktische kennis en vaardigheden boden. Dit was een geweldige manier om nieuwe technieken te leren en direct toe te passen.</p>
+<p>- Inspirerende Tentoonstellingsvloer: De beursvloer zelf was een bron van inspiratie, gevuld met stands van bedrijven die de nieuwste oplossingen en innovaties op het gebied van IT-beveiliging en data management presenteerden.</p>
 
 <h3>Conclusie</h3>
 
