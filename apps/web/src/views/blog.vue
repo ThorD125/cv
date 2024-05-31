@@ -1,5 +1,8 @@
 <template>
     <h1 class="w-full h-fit" v-if="!props.download">&lt;Blog /&gt;</h1>
+    <BlogTile :download="props.download" title="Cybersec Europe" date="30/05/2024">
+        <BlogCybersec />
+    </BlogTile>
     <BlogTile :download="props.download" title="Veeam talk by Nico Losschaert" date="29/04/2024">
         <BlogVeeam />
     </BlogTile>
