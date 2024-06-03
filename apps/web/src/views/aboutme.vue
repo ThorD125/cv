@@ -10,7 +10,7 @@
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openEmail"><span>Email</span><ImageIcon src="email"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openLinkedIn"><span>Linked</span><ImageIcon src="linkedin"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openGithub"><span>Github</span><ImageIcon src="github"/> </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openHackTheBox"><span>Github</span><ImageIcon src="hackthebox"/> </p>
+        <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openHackTheBox"><span>HackTheBox</span><ImageIcon src="hackthebox"/> </p>
     </div>
 </div>
    
