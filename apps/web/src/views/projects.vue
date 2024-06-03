@@ -27,7 +27,7 @@
                     return result ? -1 : 1;
                 });
                 console.log(sorted);
-                projectlist.value = sorted;
+                projectlist.value = sorted.reverse();
             })
     };
 
