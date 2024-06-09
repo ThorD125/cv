@@ -131,7 +131,7 @@
             <h2>Certificaten</h2>
 
             <p>Cisco Networking Academy: CyberOps Associate</p>
-            <!-- <p>CEH</p> -->
+            <!-- <p>CEH</p> need to take exam -->
             <p>Rijbewijs b</p>
             <p>SODA-attest</p>
         </div>

@@ -1,40 +1,27 @@
 <template>
-{{ test }}
 
+<p>Last week, I had the privilege of attending Cybersec Europe 2024, held at the impressive Brussels Expo. This event, focused on IT security, data management, and cloud solutions, provided an unparalleled opportunity to discover the latest innovations in data science, cloud, and artificial intelligence.</p>
 
-<p>Afgelopen week had ik het voorrecht om Cybersec Europe 2024 bij te wonen, gehouden in de imposante Brussels Expo. Dit evenement, gericht op IT-beveiliging, databeheer en cloudoplossingen, bood een ongeëvenaarde kans om de nieuwste innovaties op het gebied van data science, cloud en kunstmatige intelligentie te ontdekken.</p>
+<h3>Looking back at Cybersec Europe 2024</h3>
 
-<h3>Terugblik op Cybersec Europe 2024</h3>
+<p>Upon arriving at the exhibition floor, I was immediately overwhelmed by the energy and enthusiasm of the crowd of visitors. It was clear that everyone was here to learn, network, and explore the latest technologies.</p>
 
-<p>Bij aankomst op de beursvloer werd ik direct overweldigd door de energie en het enthousiasme van de menigte bezoekers. Het was duidelijk dat iedereen hier was om te leren, te netwerken en de nieuwste technologieën te verkennen.</p>
+<h3>Highlights of the Event</h3>
 
-<h3>Hoogtepunten van het Evenement</h3>
+<p>- A High-Quality Program: The program was packed with sessions led by leading industry experts. From in-depth technical workshops to strategic keynotes, there was something for everyone.</p>
+<p>- Inspiring Keynotes: Some of the most influential figures in the IT sector shared their insights and visions for the future of cybersecurity. Their presentations were not only informative but also incredibly inspiring.</p>
+<p>- Talk Shows and Q&A Sessions: These interactive sessions provided the opportunity to directly ask questions to the experts and participate in in-depth discussions on current IT topics.</p>
+<p>- Workshops and Webinars: There were numerous interactive workshops and webinars that offered practical knowledge and skills. This was a great way to learn new techniques and apply them immediately.</p>
+<p>- Inspiring Exhibition Floor: The exhibition floor itself was a source of inspiration, filled with booths from companies showcasing the latest solutions and innovations in IT security and data management.</p>
 
-<p>- Een Hoogstaand Programma: Het programma zat boordevol sessies die werden geleid door toonaangevende experts uit de industrie. Van diepgaande technische workshops tot strategische keynotes, er was voor ieder wat wils.</p>
-<p>- Inspirerende Keynotes: Enkele van de meest invloedrijke figuren uit de IT-sector deelden hun inzichten en visies op de toekomst van cyberbeveiliging. Hun presentaties waren niet alleen informatief, maar ook enorm inspirerend.</p>
-<p>- Talkshows en Q&A Sessies: Deze interactieve sessies boden de kans om direct vragen te stellen aan de experts en deel te nemen aan diepgaande discussies over actuele IT-onderwerpen.</p>
-<p>- Workshops en Webinars: Er waren talloze interactieve workshops en webinars die praktische kennis en vaardigheden boden. Dit was een geweldige manier om nieuwe technieken te leren en direct toe te passen.</p>
-<p>- Inspirerende Tentoonstellingsvloer: De beursvloer zelf was een bron van inspiratie, gevuld met stands van bedrijven die de nieuwste oplossingen en innovaties op het gebied van IT-beveiliging en data management presenteerden.</p>
+<h3>Conclusion</h3>
 
-<h3>Conclusie</h3>
+<p>Cybersec Europe 2024 was an unforgettable experience that not only enriched my knowledge but also provided new business opportunities and contacts. Whether you are an IT professional, a manager looking for the best solutions for your company, or simply interested in the latest technologies, Cybersec Europe offers something valuable for everyone.</p>
 
-<p>Cybersec Europe 2024 was een onvergetelijke ervaring die niet alleen mijn kennis heeft verrijkt, maar ook nieuwe zakelijke kansen en contacten heeft opgeleverd. Of je nu een IT-professional bent, een manager die op zoek is naar de beste oplossingen voor je bedrijf, of gewoon geïnteresseerd bent in de nieuwste technologieën, Cybersec Europe biedt voor iedereen iets waardevols.</p>
-
-<p>Ik kijk nu al uit naar volgend jaar en hoop velen van jullie daar te zien!</p>
+<p>I am already looking forward to next year and hope to see many of you there!</p>
 </template>
 
 <script setup lang="ts">
-    // const test = 'Hello World';
-
-    const myclick = () => {
-        console.log('clicked');
-    }
-
-    import { ref } from 'vue';
-
-    const test = ref('Hello World');
-        
-    const color = true;
 </script>
 
 <style scoped>
