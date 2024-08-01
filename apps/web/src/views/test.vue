@@ -1,5 +1,5 @@
 <template>
-    <TileGrid>
+    <!-- <TileGrid>
         <Tile bg-color="red" url="https://example.com">firsttile</Tile>
         <Tile :bg-image="TestImage" url="example.com">secondtile</Tile>
         <Tile bg-color="purple" url="example.com">3</Tile>
@@ -23,7 +23,8 @@
         <Tile bg-color="#4b0082">colors</Tile>
         <Tile bg-color="#ff1493">colors</Tile>
         <Tile bg-color="#00ced1">colors</Tile>
-    </TileGrid>
+    </TileGrid> -->
+
 
 
 </template>
