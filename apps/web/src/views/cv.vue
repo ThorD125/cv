@@ -20,7 +20,7 @@
                     van het web gedeelte met een sterke focus op cybersecurity.
                 </p>
             </a>
-            <div>
+         <!--   <div>
                 <h3><span class="font-bold">Televic</span></h3>
                 <p class="text-xs">juli-augustus 2022</p>
                 <p>
@@ -36,7 +36,7 @@
                     Mijn opdrachten bestonden uit het ontwerpen van websites en deze in code omzetten en WordPress erop
                     te integreren.
                 </p>
-            </a>
+            </a>-->
         </div>
         <div :class="props.download ? 'pl-5 w-[50%]' : 'd-none'">
             <slot></slot>
@@ -75,10 +75,10 @@
                 <p>Niet detail georiënteerd.</p>
                 <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
-            <div>
+        <!--    <div>
                 <p>Solitair</p>
                 <p>Ik geef er de voorkeur aan om zelfstandig te werken in plaats van in een groep.</p>
-            </div>
+            </div>-->
         </div>
     </div>
     <SectionBreak />
@@ -95,7 +95,7 @@
                 en reverse engineering.
             </p>
         </div>
-        <div>
+      <!--  <div>
             <h3><span class="font-bold">Multimedia</span> - Optie Visueel</h3>
             <p class="text-xs">2018-2021</p>
             <p>Athena Heule</p>
@@ -111,7 +111,7 @@
                 We hadden een praktijkgerichte benadering van technologie en engineering, het stimuleerde ons om innovatieve
                 oplossingen te ontwikkelen voor complexe industriële uitdagingen.
             </p>
-        </div>
+        </div>-->
     </div>
     <SectionBreak />
     <div class="md:flex">
@@ -130,10 +130,11 @@
         <div class="w-[90vw] md:w-[50vw] md:pl-5">
             <h2>Certificaten</h2>
 
+            <p>Microsoft AZ-900</p>
             <p>Cisco Networking Academy: CyberOps Associate</p>
             <!-- <p>CEH</p> need to take exam -->
             <p>Rijbewijs b</p>
-            <p>SODA-attest</p>
+            <!--<p>SODA-attest</p>-->
         </div>
     </div>
     <div class="md:flex">
@@ -183,10 +184,10 @@
                 <p>Niet detail georiënteerd.</p>
                 <p>Ik maak liever iets die werkt, dan dat het er goed uitziet.</p>
             </div>
-            <div>
+<!--            <div>
                 <p>Solitair</p>
                 <p>Ik geef er de voorkeur aan om zelfstandig te werken in plaats van in een groep.</p>
-            </div>
+            </div>-->
         </div>
     </div>
 </template>
