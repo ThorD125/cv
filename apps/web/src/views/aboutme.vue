@@ -3,14 +3,14 @@
     <div class="h-fit my-auto md:m-auto w-[90vw] md:w-auto">        
         <h1 class="m-0 my-1">&lt;About me /&gt;</h1>
         <p class="flex align-center hover:cursor-pointer hover:font-bold">Naam Thor Demeestere </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold"><span>School</span><ImageIcon src="school"/> Howest </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold"><span>Status</span><ImageIcon src="student"/> student </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold"><span>Birthdate</span><ImageIcon src="birthday"/> 5 mei 2003 </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openPhone"><span>Phone</span><ImageIcon src="phone"/> </p>
+        <!--<p class="flex align-center hover:cursor-pointer hover:font-bold"><span>School</span><ImageIcon src="school"/> Howest </p>
+        <p class="flex align-center hover:cursor-pointer hover:font-bold"><span>Status</span><ImageIcon src="student"/> student </p>-->
+        <!--<p class="flex align-center hover:cursor-pointer hover:font-bold"><span>Birthdate</span><ImageIcon src="birthday"/> 5 mei 2003 </p>-->
+        <!--<p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openPhone"><span>Phone</span><ImageIcon src="phone"/> </p>-->
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openEmail"><span>Email</span><ImageIcon src="email"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openLinkedIn"><span>Linked</span><ImageIcon src="linkedin"/> </p>
         <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openGithub"><span>Github</span><ImageIcon src="github"/> </p>
-        <p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openHackTheBox"><span>HackTheBox</span><ImageIcon src="hackthebox"/> </p>
+        <!--<p class="flex align-center hover:cursor-pointer hover:font-bold" @click="openHackTheBox"><span>HackTheBox</span><ImageIcon src="hackthebox"/> </p>-->
     </div>
 </div>
    
